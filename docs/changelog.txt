@@ -1,0 +1,4 @@
+<h5>1.00 Alpha 1   [WORK IN PROGRESS - NOT RELEASED]</h5>  Dev: XOOPS 2.5.9, PHP 7.2.7
+<hr>
+- experimental version with CSS Grid
+WORK IN PROGRESS

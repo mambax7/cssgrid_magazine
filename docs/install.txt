@@ -1,0 +1,6 @@
+INSTALL/UNISTALL
+=================
+
+No special measures necessary, extract the theme folder into the ../themes directory and select it in the Admin.
+
+

@@ -1,0 +1,6 @@
+Credits
+===============
+
+Originally developed by Heather Buchel (https://codepen.io/hbuchel/pen/qOxGzW/)
+
+Experimental conversion to XOOPS by Michael Beck (Mamba)
